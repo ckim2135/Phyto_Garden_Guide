@@ -1,17 +1,18 @@
 # ckim_capstone
 caroline kim's dda9 capstone repo
-#Phyto-Garden Guide: A Practical Guide to Gardening for a Healthier Environment
+# Phyto-Garden Guide: A Practical Guide to Gardening for a Healthier Environment
 
 Phyto-Garden Guide is a dashboard that informs users of the need to garden for a healthier environment and offers practical information for planning and planting a phytoremediation garden. It educates users about phytoremediation and recommends plants for their specific pollution concerns, prioritizing commercial availability. 
 
-#Table of Contents
-- A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
-- An Overview of Phyto-Garden Guide: How does Phyto-Garden Guide work and how do I use it?
-- Methodology: Approach, Data Sources and Tools
-- Trials and Tribulations: Known Issues, Challenges, and Solutions
-- Acknowledgements
+<ol>Table of Contents
+    <li>A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?</li>
+    <li>An Overview of Phyto-Garden Guide: How does Phyto-Garden Guide work and how do I use it?</li>
+    <li>Methodology: Approach, Data Sources and Tools</li>
+    <li>Problems and Solutions: Known Issues, Challenges, and Solutions</li>
+    <li>Acknowledgements</li>
+</ol>
 
-##A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
+## A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
 
 Phytoremediation is a highly effective, cost-efficient, and achievable solution to many of the environmental issues faced today. And best of all, it is an option readily available to anyone with access to a garden, large or small. 
 
@@ -30,6 +31,6 @@ While I have long been aware of the importance of native plants and promoting he
 Through the simple act of planting, anyone can harness the highly advanced, effective and sustainable technology of plants to address the environmental concerns of today, and do their part in ensuring a healthier tomorrow. 
 
 
-##An Overview of Phyto-Garden Guide: How does Phyto-Garden Guide work and how do I use it?
+## An Overview of Phyto-Garden Guide: How does Phyto-Garden Guide work and how do I use it?
 
 
