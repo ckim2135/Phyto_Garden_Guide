@@ -4,12 +4,12 @@ caroline kim's dda9 capstone repo
 
 Phyto-Garden Guide is an interactive dashboard that recommends commercially available plants for an everyday Phyto-Garden based on site-type or specific pollutants. It aims to illuminate the benefits of gardening for a healthier environment and to empower potential Phyto-Gardeners by offering a starting point for planning and planting their Phyto-Garden.
 
-<ol> Table of Contents
+### <ol> Table of Contents
     <li> A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?</li>
     <li> An Overview of Phyto-Garden Guide: What is Phyto-Garden Guide and what is it not?</li>
-    <li> How to use Phyto-Garden Guide </li>
+    <li> How To: Using Phyto-Garden Guide </li>
     <li> Methodology: Approach, Data Sources and Tools</li>
-    <li> Problems and Solutions: Known Issues, Challenges, and Solutions</li>
+    <li> The Process: Known Issues, Challenges, and Solutions</li>
     <li> Acknowledgements</li>
 </ol>
 
@@ -17,28 +17,33 @@ Phyto-Garden Guide is an interactive dashboard that recommends commercially avai
 
 Phytoremediation refers to the ability of living plants and micro-organisms to de-contaminate the environment through bioaccumulation, whereby the absorb the toxin and lock it in place, or one or more other natural phytoremediation processes. It is a highly effective, cost-efficient, and achievable solution to many of the environmental issues faced today. And best of all, it is an option readily available to anyone with access to a garden, large or small. 
 
-I first began researching the ability of living plants to purify soil, air, and water of toxic pollutants after testing the well-water at our 163 year-old farmhouse in scenic, rural Central New York. I was shocked to learn that not only were there too many bacteria to count, but there was a substantial amount of lead in our water, and no amount of lead is safe [<https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health>]. Before seeing the test results, I had never considered the impact of the lead paint peeling off our barn with every rain, or the leaded-gasoline particles remaining from pre-1975 automobiles, perpetually being kicked back up into the air we breathe and washing into the water we drink.
+I first began researching the ability of living plants to purify soil, air, and water of toxic pollutants after testing the well-water at our 163 year-old farmhouse in scenic, rural Central New York. I was shocked to learn that not only were there too many bacteria to count, but there was a substantial amount of lead in our water, and [no amount of lead is safe](https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health). Before seeing the test results, I had never considered the impact of the lead paint peeling off our barn with every rain, or the leaded-gasoline particles remaining from pre-1975 automobiles, perpetually being kicked back up into the air we breathe and washing into the water we drink.
 
-Already a passionate native plant gardener, when I came across the results of a Swedish phytofiltration study whereby aquatic moss removed 82% of arsenic from polluted water within only one hour [<https://www.sciencedirect.com/science/article/abs/pii/S026974911731206X>]. These impressive results empowered me to create a targeted and strategic approach to remediating my personal environmental concerns, further energizing my passion for gardening. The result is Phyto-Garden Guide, a gardener's first step toward harnessing the highly advanced, efficient and sustainable technology of plants to address the environmental concerns of today and ensuring a healthier tomorrow. 
+Already a passionate native plant gardener, when I came across the results of a [Swedish phytofiltration study](https://www.sciencedirect.com/science/article/abs/pii/S026974911731206X) whereby aquatic moss removed 82% of arsenic from polluted water within only one hour. These impressive results empowered me to create a targeted and strategic approach to remediating my personal environmental concerns, further energizing my passion for gardening. The result is Phyto-Garden Guide, a gardener's first step toward harnessing the highly advanced, efficient and sustainable technology of plants to address the environmental concerns of today and ensuring a healthier tomorrow. 
 
 
 ## An Overview of Phyto-Garden Guide: What is Phyto-Garden Guide and what is it not?
 
 The purpose of Phyto-Garden Guide is to recommend commercially available plants for an everyday Phyto-Garden. It is a gardener's first step toward harnessing the highly advanced, efficient and sustainable technology of plants to create a cleaner and healthier environment. It is not a substitute for expert advice, such as your extension office can provide, especially if you have serious concerns about safety and environmental hazards. 
 
-*While Phyto-Garden Guide draws on published research and literature, it is important to note that it makes inferences as well. The primary inference drawn by Phyto-Garden Guide is that plants in the same genus have the same phytoremediation abilities.* Because unique plant species number in the hundreds of thousands, with even more varieties, only a fraction of known species will ever be studied. Furthermore, not all of the species studied by scientists are commercially available, nor will they all be suitable for every site based on their light, water, and soil requirements. By infering that plants in the same genus have the same phytoremediaton abilities, Phyto-Garden Guide is able to recommend far more commercially available species with the potential to thrive in your garden and purify your environment. *While this is largely a reasonable assumption, it is not always the case. Therefore, Phyto-Garden Guide distinguishes when a particular species is recommended because it is known to have phytoremediation abilities, or when it is recommended because of its genus.* 
+*While Phyto-Garden Guide draws on published research and literature, it is important to note that it makes inferences as well. The primary inference drawn by Phyto-Garden Guide is that plants in the same genus have the same phytoremediation abilities.* 
+
+While this is largely a reasonable assumption, it is not always the case. Therefore, Phyto-Garden Guide distinguishes when a particular species is recommended because it is known to have phytoremediation abilities, or when it is recommended because of its genus.
+
+Because unique plant species number in the hundreds of thousands, with even more varieties, only a fraction of known species will ever be studied. Furthermore, not all of the species studied by scientists are commercially available, nor will they all be suitable for every site based on their light, water, and soil requirements. By infering that plants in the same genus have the same phytoremediaton abilities, Phyto-Garden Guide is able to recommend far more commercially available species with the potential to thrive in your garden and purify your environment. 
 
 
 ## How to Use Phyto-Garden Guide
 
+Are you a gardener ready to begin their phytoremediation journey? Are you still asking yourself, phyto-what? Well, you've come to the right place. 
 
 ## Methodology: Approach, Data Sources and Tools
 
-The sea of plant-related research is vast and so Phyto-Garden Guide makes good use of the species lists Eric Fuselier of Wild Ones thoughtfully compiled based on his review of published research and literature [<https://wildones.org/phytoremediation-with-eric-fuselier/>]. Using *regex* and an extract from the USDA PLANTS database, I parsed, sorted and analyzed the PDF-format lists in *Python* [<https://plants.usda.gov/home/downloads>].
+The sea of plant-related research is vast and so Phyto-Garden Guide makes good use of the [species lists Eric Fuselier of Wild Ones](https://wildones.org/phytoremediation-with-eric-fuselier/) thoughtfully compiled based on his review of published research and literature. Using *regex* and an extract from the [USDA PLANTS database](https://plants.usda.gov/home/downloads), I parsed, sorted and analyzed the PDF-format lists in *Python*.
 
-The lists of plants species and genera were then cross-referenced against the 2019 Prairie Moon Nursery Cultural Guide & Pricing Excel file to determine commercially available species using *SQL and Python* [<https://www.prairiemoon.com/blog/resources-and-information>].
+The lists of plants species and genera were then cross-referenced against the [2019 Prairie Moon Nursery Cultural Guide & Pricing](https://www.prairiemoon.com/blog/resources-and-information) Excel file to determine commercially available species using *SQL and Python*.
 
-Finally, *Tableau* was utilized to neatly order the data to make recommendations based on site-types and pollutants. Additionally, EPA-widgets were imbedded to allow the user to explore information about their environment and EPA clean-up sites near them [<https://www.epa.gov/enviro/widgets#other>]. 
+Finally, *Tableau* was utilized to neatly order the data to make recommendations based on site-types and pollutants. Additionally, [EPA-widgets](https://www.epa.gov/enviro/widgets#other) were imbedded to allow the user to explore information about their environment and EPA clean-up sites near them.
 
 
 ## The Process: Known Issues, Challenges, and Solutions
