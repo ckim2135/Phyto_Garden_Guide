@@ -4,14 +4,14 @@ caroline kim's dda9 capstone repo
 
 Phyto-Garden Guide is an interactive dashboard that recommends commercially available plants for an everyday Phyto-Garden based on site-type or specific pollutants. It aims to illuminate the benefits of gardening for a healthier environment and to empower potential Phyto-Gardeners by offering a starting point for planning and planting their Phyto-Garden.
 
-### <ol> Table of Contents
-    <li> A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?</li>
-    <li> An Overview of Phyto-Garden Guide: What is Phyto-Garden Guide and what is it not?</li>
-    <li> How To: Using Phyto-Garden Guide </li>
-    <li> Methodology: Approach, Data Sources and Tools</li>
-    <li> The Process: Known Issues, Challenges, and Solutions</li>
-    <li> Acknowledgements</li>
-</ol>
+### Table of Contents
+    *A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
+    An Overview of Phyto-Garden Guide: What is Phyto-Garden Guide and what is it not?
+    How To: Using Phyto-Garden Guide
+    Methodology: Approach, Data Sources and Tools
+    The Process: Known Issues, Challenges, and Solutions
+    Acknowledgements*
+
 
 ## A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
 
@@ -26,7 +26,7 @@ Already a passionate native plant gardener, when I came across the results of a 
 
 The purpose of Phyto-Garden Guide is to recommend commercially available plants for an everyday Phyto-Garden. It is a gardener's first step toward harnessing the highly advanced, efficient and sustainable technology of plants to create a cleaner and healthier environment. It is not a substitute for expert advice, such as your extension office can provide, especially if you have serious concerns about safety and environmental hazards. 
 
-*While Phyto-Garden Guide draws on published research and literature, it is important to note that it makes inferences as well. The primary inference drawn by Phyto-Garden Guide is that plants in the same genus have the same phytoremediation abilities.* 
+***While Phyto-Garden Guide draws on published research and literature, it is important to note that it makes inferences as well. The primary inference drawn by Phyto-Garden Guide is that plants in the same genus have the same phytoremediation abilities.*** 
 
 While this is largely a reasonable assumption, it is not always the case. Therefore, Phyto-Garden Guide distinguishes when a particular species is recommended because it is known to have phytoremediation abilities, or when it is recommended because of its genus.
 
@@ -36,6 +36,9 @@ Because unique plant species number in the hundreds of thousands, with even more
 ## How to Use Phyto-Garden Guide
 
 Are you a gardener ready to begin their phytoremediation journey? Are you still asking yourself, phyto-what? Well, you've come to the right place. 
+
+
+
 
 ## Methodology: Approach, Data Sources and Tools
 
@@ -63,7 +66,7 @@ Initial analysis showed that only 24 species listed in Wild Ones were available 
 
 To create a more practical Phyto-Garden resource, I decided to take a genus-level approach and identify all commercially available species in the same genus as plants known to have phytoremediation abilities, while noting whether the species is being recommended because it has been proven to have certain phytoremediation abilities, or if it is being recommended based on its genus. From there, Phyto-Gardeners can decide for themselves which plants are best for their garden. 
 
-Once I had the list of recommended species and their phytoremediation abilities (or those of species in the same genus), I decided to make recommendations from two different angles. First, plants would be recommended based on pollutant categories (air, heavy metals, chlorinated solvents, pesticides and petroleum). Secondly, plants would be recommended by site-type (autobody shop, agriculture, residential areas, etc.), which would also provide an opportunity to educate Phyto-Gardeners about contaminants they might not realize could be in their environment. To this same point, I chose to embed useful EPA widgets that provide information about the users environment and EPA cleanup sites near them. 
+Once I had the list of recommended species and their phytoremediation abilities (or those of species in the same genus), I decided to make recommendations from two different angles. First, plants would be recommended based on pollutant categories (air, heavy metals, chlorinated solvents, pesticides and petroleum). Secondly, plants would be recommended by site-type (autobody shop, agriculture, residential areas, etc.), which would also provide an opportunity to educate Phyto-Gardeners about contaminants they might not realize could be in their environment. To this same point, I chose to embed useful EPA widgets that provide information about the users environment and EPA cleanup sites near them. Lastly, since Prairie Moon does not offer trees online, I dedicated a page to trees that promote cleaner air and water.
 
 The end product is Phyto-Garden Guide, an interactive dashboard I truly hope is useful and inspiring to potential Phyto-Gardeners everywhere. 
 
