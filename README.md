@@ -4,16 +4,7 @@ caroline kim's dda9 capstone repo
 
 Phyto-Garden Guide is an interactive dashboard that recommends commercially available plants for an everyday Phyto-Garden based on site-type or specific pollutants. It aims to illuminate the benefits of gardening for a healthier environment and to empower potential Phyto-Gardeners by offering a starting point for planning and planting their Phyto-Garden.
 
-Link to Tableau Public:
-https://public.tableau.com/views/Phyto-GardenGuide/Phyto_Guide?:language=en-US&:display_count=n&:origin=viz_share_link
-
-### Table of Contents
-
-    A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
-    An Overview of Phyto-Garden Guide: What is Phyto-Garden Guide and what is it not?
-    Methodology: Approach, Data Sources and Tools
-    The Process: Known Issues, Challenges, and Solutions
-    Acknowledgements
+[Phyto-Garden Guide on Tableau Public](https://public.tableau.com/views/Phyto-GardenGuide/Phyto_Guide?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
