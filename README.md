@@ -7,7 +7,6 @@ Phyto-Garden Guide is an interactive dashboard that recommends commercially avai
 ### Table of Contents
     *A Brief Introduction: What is phytoremediation and why should I plant a Phyto-Garden?
     An Overview of Phyto-Garden Guide: What is Phyto-Garden Guide and what is it not?
-    How To: Using Phyto-Garden Guide
     Methodology: Approach, Data Sources and Tools
     The Process: Known Issues, Challenges, and Solutions
     Acknowledgements*
@@ -31,13 +30,6 @@ The purpose of Phyto-Garden Guide is to recommend commercially available plants 
 While this is largely a reasonable assumption, it is not always the case. Therefore, Phyto-Garden Guide distinguishes when a particular species is recommended because it is known to have phytoremediation abilities, or when it is recommended because of its genus.
 
 Because unique plant species number in the hundreds of thousands, with even more varieties, only a fraction of known species will ever be studied. Furthermore, not all of the species studied by scientists are commercially available, nor will they all be suitable for every site based on their light, water, and soil requirements. By infering that plants in the same genus have the same phytoremediaton abilities, Phyto-Garden Guide is able to recommend far more commercially available species with the potential to thrive in your garden and purify your environment. 
-
-
-## How to Use Phyto-Garden Guide
-
-Are you a gardener ready to begin their phytoremediation journey? Are you still asking yourself, phyto-what? Well, you've come to the right place. 
-
-
 
 
 ## Methodology: Approach, Data Sources and Tools
@@ -70,7 +62,14 @@ Once I had the list of recommended species and their phytoremediation abilities 
 
 The end product is Phyto-Garden Guide, an interactive dashboard I truly hope is useful and inspiring to potential Phyto-Gardeners everywhere. 
 
+
 ## Acknowledgements
 
 First and foremost, I would like to thank Mars and Ranch, my loyal greyhounds and full time supervisors. I truly couldn't have done it without their very close, very thorough supervision.
+
+I would also like to thank the NSS instructors and volunteers, as well as my classmates, for sharing their knowledge and their time. 
+
+And with a heart full of gratitude, I thank my nature-loving friends, neighbors and family members, who have taught me to slow down and smell the bee balm.
+
+
 
